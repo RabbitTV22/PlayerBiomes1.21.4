@@ -1,3 +1,5 @@
+# Works on 1.21.4-1.21.5
+
 # [PlayerBiomes on SpigotMC](https://www.spigotmc.org/resources/playerbiomes-1-16-x-1-19-x.108144/)
 - Find player's exact biome using a PlaceholderAPI placeholder
 - Use /whereami to find what biome you are in
